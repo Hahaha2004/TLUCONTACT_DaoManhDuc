@@ -1,0 +1,28 @@
+Tên đơn vị: Khoa Công nghệ thông tin
+Số điện thoại: 0987654321
+Địa chỉ: Tòa C5 - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa Kĩ Thuật Phần Mềm
+Số điện thoại: 0854321098
+Địa chỉ: Tòa C2 - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa An Ninh Mạng
+Số điện thoại: 0334455667
+Địa chỉ: Tòa A1 - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa Công Trình
+Số điện thoại: 0778899001
+Địa chỉ: Tòa B5 - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa Toán Lý
+Số điện thoại: 0667788992
+Địa chỉ: Tòa K1 - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa Sinh Học
+Số điện thoại: 0930788992
+Địa chỉ: Tòa Kí túc - Đại học Thủy Lợi - Hà Nội
+------------------------------
+Tên đơn vị: Khoa Môi Trường
+Số điện thoại: 0912345678
+Địa chỉ: Tòa D1 - Đại học Thủy Lợi - Hà Nội
+------------------------------

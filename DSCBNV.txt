@@ -1,0 +1,42 @@
+Họ tên: Thầy Kiều Tuấn Dũng
+Chức vụ: Thạc sĩ
+SĐT: 0984 123 456
+Email: ktd@gmail.com
+Đơn vị: Khoa CNTT
+------------------------------
+Họ tên: Cô Đoàn Thi Quế
+Chức vụ: Tiến sĩ
+SĐT: 0854 678 901
+Email: dtq@gmail.com
+Đơn vị: Khoa Mạng
+------------------------------
+Họ tên: Thầy Nguyễn Văn Thẩm
+Chức vụ: Tiến sĩ
+SĐT: 0333 888 999
+Email: nvtham@gmail.com
+Đơn vị: Khoa CNTT
+------------------------------
+Họ tên: Thầy Nguyễn Quang Hoan
+Chức vụ: PGS.TS
+SĐT: 0444 222 555
+Email: hoan@gmail.com
+Đơn vị: Khoa TRÍ TUỆ NHÂN TẠO
+------------------------------
+Họ tên: Thầy Nguyễn Huy Đức
+Chức vụ: Tiến sĩ
+SĐT: 0555 999 000
+Email: huyduc@gmail.com
+Đơn vị: Khoa CNTT
+------------------------------
+Họ tên: Thầy Tạ Chí Hiếu
+Chức vụ: Thạc sĩ
+SĐT: 0666 333 777
+Email: hieutc@gmail.com
+Đơn vị: Khoa CNTT
+------------------------------
+Họ tên: Cô Nguyễn Ngọc Quỳnh Châu
+Chức vụ: Thạc sĩ
+SĐT: 0777 111 888
+Email: quynhchau@gmail.com
+Đơn vị: Khoa AN TOÀN BẢO MẬT THÔNG TIN
+------------------------------
